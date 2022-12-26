@@ -6,6 +6,6 @@ Used to compete in ICPC and CCPC. [Here](https://github.com/ipChrisLee/ipLee-XCP
 
 My academic interest is in system and architecture now. You are welcome to communicate with me via [email](mailto:chrisleecn@outlook.com).
 
-Schoolmates can also communicate with me at my school email.
+Schoolmates can also communicate with me at my school email, my school id is 19211332.
 
 My blog: https://ipchrislee.github.io .
