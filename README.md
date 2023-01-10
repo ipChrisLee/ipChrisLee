@@ -42,12 +42,9 @@ My blog: https://ipchrislee.github.io .
     <img src="https://skillicons.dev/icons?i=raspberrypi,linux,vim" />
   </a>
 </p>
-
 <!-- Beginner Competent Skillful Proficient Expert -->
 
-<img align='center' src="https://streak-stats.demolab.com/?user=ipChrisLee&theme=dark">
+<!-- <img align='center' src="https://streak-stats.demolab.com/?user=ipChrisLee&theme=dark"> -->
 
-<img align='center' src="https://github-readme-activity-graph.cyclic.app/graph?username=ipChrisLee&theme=high-contrast">
-
-
+<!-- <img align='center' src="https://github-readme-activity-graph.cyclic.app/graph?username=ipChrisLee&theme=high-contrast"> -->
 
