@@ -8,7 +8,7 @@ I designed a compiler from scratch in [Bisheng Bei](https://os.educg.net/#/index
 
 My academic interest is in computer system and architecture now. To exercise my ability on system and arch, I am preparing for nscscc-2023 (龙芯杯).
 
-I am also an ACGNM fans(二次元). I'm buliding my own ACGNM content manager [ProjSEED](https://github.com/ProjSEED-dev) which can prevent what I like from disappearing on the Internet (in paricular, China mainland Internet).
+I am also an ACGNM fans(二次元). I am buliding my own ACGNM content manager [ProjSEED](https://github.com/ProjSEED-dev) which can prevent what I like from being disappeared on the Internet (in paricular, China mainland Internet).
 
 ---
 
@@ -23,17 +23,31 @@ My blog: https://ipchrislee.github.io .
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,md,py,vim" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cmake,md,py,java" />
   </a>
 </p>
 <p align="center"> 
-<strong> Proficiency </strong>
+<strong> Beginner </strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,rust,cmake,docker,git,scala,html,js,kotlin,latex,matlab,mysql,raspberrypi,react" />
+    <img src="https://skillicons.dev/icons?i=bash,rust,scala,docker,git,html,css,js,kotlin,mysql,react,latex" />
+  </a>
+</p>
+<p align="center"> 
+<strong> Interests </strong>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,linux,vim" />
   </a>
 </p>
 
-<!-- Novice Proficiency Competent Proficient Expert -->
+<!-- Beginner Competent Skillful Proficient Expert -->
+
+<img align='middle' src="https://streak-stats.demolab.com/?user=ipChrisLee&theme=dark">
+
+<img align='middle' src="https://github-readme-activity-graph.cyclic.app/graph?username=ipChrisLee&theme=high-contrast">
+
+
 
