@@ -45,9 +45,9 @@ My blog: https://ipchrislee.github.io .
 
 <!-- Beginner Competent Skillful Proficient Expert -->
 
-<img align='middle' src="https://streak-stats.demolab.com/?user=ipChrisLee&theme=dark">
+<img align='center' src="https://streak-stats.demolab.com/?user=ipChrisLee&theme=dark">
 
-<img align='middle' src="https://github-readme-activity-graph.cyclic.app/graph?username=ipChrisLee&theme=high-contrast">
+<img align='center' src="https://github-readme-activity-graph.cyclic.app/graph?username=ipChrisLee&theme=high-contrast">
 
 
 
