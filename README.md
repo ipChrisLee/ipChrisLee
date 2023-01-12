@@ -8,7 +8,7 @@ I designed a compiler from scratch in [Bisheng Bei](https://os.educg.net/#/index
 
 My academic interest is in computer system and architecture now. To exercise my ability on system and arch, I am preparing for nscscc-2023 (龙芯杯).
 
-I am also an ACGNM fans(二次元). I am buliding my own ACGNM content manager [ProjSEED](https://github.com/ProjSEED-dev) which can prevent what I like from being disappeared on the Internet (in paricular, China mainland Internet).
+I am also an ACGNM fan(二次元). I am buliding my own ACGNM content manager [ProjSEED](https://github.com/ProjSEED-dev) which can prevent what I like from being disappeared on the Internet (in paricular, China mainland Internet).
 
 ---
 
