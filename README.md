@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ipChrisLee&hide_border=true&show_icons=true&theme=dark">
+### Hi! Hi there, this is ipChrisLee! 👋
 
 I'm an undergraduate CS student in [Beijing Jiaotong University](https://www.bjtu.edu.cn).
 
