@@ -1,4 +1,4 @@
-### Hi! Hi there, this is ipChrisLee! 👋
+### Hi there, this is ipChrisLee! 👋
 
 I'm an undergraduate CS student in [Beijing Jiaotong University](https://www.bjtu.edu.cn).
 
