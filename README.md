@@ -1,6 +1,6 @@
 ### Hi there, this is ipChrisLee! 👋
 
-I'm an undergraduate CS student in [Beijing Jiaotong University](https://www.bjtu.edu.cn).
+I'm an undergraduate CS student. I am 
 
 Used to compete in ICPC and CCPC, won two ICPC silver medals and two ICPC bronze medals. [Here](https://github.com/ipChrisLee/ipLee-XCPC-Template) is my XCPC-template-repo.
 
@@ -12,14 +12,14 @@ I am also an ACGNM fan(二次元). I am buliding my own ACGNM content manager [P
 
 ---
 
-Wanna contact me? My personal Emal is [chrisleecn@outlook.com](mailto:chrisleecn@outlook.com). For my schoolmates, contact me by my shool email [19211332@bjtu.edu.cn](mailto:19211332@bjtu.edu.cn) is also welcome.
+Wanna contact me? My personal Emal is [chrisleecn@outlook.com](mailto:chrisleecn@outlook.com). 
 
 My blog: https://ipchrislee.github.io .
 
 ---
 
 <p align="center"> 
-<strong> Competent </strong>
+<strong> Skillful </strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,21 +27,22 @@ My blog: https://ipchrislee.github.io .
   </a>
 </p>
 <p align="center"> 
+<strong> Competent </strong>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,rust,scala,git,latex" />
+  </a>
+</p>
+<p align="center"> 
 <strong> Beginner </strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,rust,scala,docker,git,html,css,js,kotlin,mysql,react,latex" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,linux,vim,docker,html,css,js,kotlin,mysql,react" />
   </a>
 </p>
-<p align="center"> 
-<strong> Interests </strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,linux,vim" />
-  </a>
-</p>
+
 <!-- Beginner Competent Skillful Proficient Expert -->
 
 <!-- <img align='center' src="https://streak-stats.demolab.com/?user=ipChrisLee&theme=dark"> -->
