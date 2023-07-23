@@ -14,7 +14,7 @@ I am also an ACGNM fan(二次元). I am buliding my own ACGNM content manager [P
 
 Wanna contact me? My personal Emal is [chrisleecn@outlook.com](mailto:chrisleecn@outlook.com). 
 
-My blog: https://ipchrislee.github.io .
+My blog: https://ipchrislee.github.io (almost stop changing).
 
 ---
 
