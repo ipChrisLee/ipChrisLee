@@ -1,6 +1,6 @@
 ### Hi there, this is ipChrisLee! 👋
 
-I'm an undergraduate CS student, also a compilation and performance optimization intern.
+I'm an undergraduate CS student, also a compiler developer.
 
 Used to compete in ICPC and CCPC, won two ICPC silver medals and two ICPC bronze medals. [Here](https://github.com/ipChrisLee/ipLee-XCPC-Template) is my XCPC-template-repo.
 
