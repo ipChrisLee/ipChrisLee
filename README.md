@@ -31,7 +31,7 @@ My blog: https://ipchrislee.github.io (almost stop updating).
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,rust,scala,git,latex" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,scala,git,latex" />
   </a>
 </p>
 <p align="center"> 
@@ -39,7 +39,7 @@ My blog: https://ipchrislee.github.io (almost stop updating).
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,linux,vim,docker,html,css,js,kotlin,mysql,react" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,rust,vim,docker,html,css,js,kotlin,mysql,react" />
   </a>
 </p>
 
