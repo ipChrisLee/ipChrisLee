@@ -23,7 +23,7 @@ My blog: https://ipchrislee.github.io (almost stop updating).
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cmake,md,py,java" />
+    <img src="https://skillicons.dev/icons?i=bash,cpp,c,cmake,md,git,py,java" />
   </a>
 </p>
 <p align="center"> 
@@ -31,7 +31,7 @@ My blog: https://ipchrislee.github.io (almost stop updating).
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,scala,git,latex" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,rust,latex" />
   </a>
 </p>
 <p align="center"> 
@@ -39,7 +39,7 @@ My blog: https://ipchrislee.github.io (almost stop updating).
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,rust,vim,docker,html,css,js,kotlin,mysql,react" />
+    <img src="https://skillicons.dev/icons?i=vim,html,css,js,kotlin,mysql,react,scala" />
   </a>
 </p>
 
