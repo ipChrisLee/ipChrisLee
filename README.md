@@ -10,7 +10,7 @@ I earned a bachelor's degree in a Beijing university in computer science.
 
 My academic interest is in compiler, computer system and architecture now.
 
-I am also an ACGNM fan(二次元) and a tech otaku. Collecting cartoons, playing ACG games and diy are my interestings.
+I am also an ACGNM fan(二次元) and a tech otaku. Watching cartoons, playing ACG games and diy are my interestings.
 
 ---
 
